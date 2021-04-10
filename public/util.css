@@ -1,7 +1,10 @@
 #body
 {
     /** Be sure to use your selected colors */
-    background-color: #051a3f;
+    background-image: url(/space_background.png);
+    background-size: cover;
+    background-position: center; 
+
 }
 
 .title

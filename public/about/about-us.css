@@ -1,4 +1,8 @@
-#starter-code
-{
-    color: blue;
+#content{
+    width: 100%;
+    height: 100%;
+    background-image: url(/space_background.png); 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
 }
